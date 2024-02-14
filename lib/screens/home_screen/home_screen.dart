@@ -1,5 +1,5 @@
-import 'package:bata/home_screen/widgets/home_screen_container.dart';
-import 'package:bata/tover_screen/tover_screen.dart';
+import 'package:bata/screens/home_screen/widgets/home_screen_container.dart';
+import 'package:bata/screens/tover_screen/tover_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

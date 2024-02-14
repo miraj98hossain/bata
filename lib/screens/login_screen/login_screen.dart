@@ -1,6 +1,6 @@
-import 'package:bata/common/custom_text_field.dart';
-import 'package:bata/home_screen/home_screen.dart';
-import 'package:bata/register_screen/register_screen.dart';
+import 'package:bata/screens/common/custom_text_field.dart';
+import 'package:bata/screens/home_screen/home_screen.dart';
+import 'package:bata/screens/register_screen/register_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
